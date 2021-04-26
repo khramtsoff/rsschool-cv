@@ -8,3 +8,5 @@
 # Education
     - Jesuit school Stella Matutina in Feldkirch, Austria
 
+# English
+    - Native speaker
