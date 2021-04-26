@@ -1,12 +1,12 @@
-### CV for RSSchool
+CV for RSSchool
 
 # Arthur Conan Doyle
 
-### Contacts
+## Contacts
     - Crowborough, England
 
-### Education
+## Education
     - Jesuit school Stella Matutina in Feldkirch, Austria
 
-### English
+## English
     - Native speaker
