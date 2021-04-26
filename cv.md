@@ -5,3 +5,6 @@
 # Contacts
     - Crowborough, England
 
+# Education
+    - Jesuit school Stella Matutina in Feldkirch, Austria
+
